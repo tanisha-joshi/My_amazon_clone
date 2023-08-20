@@ -1,0 +1,16 @@
+.home_image{
+    width:100%;
+    z-index:-1;
+    margin-bottom:-40px;
+    mask-image: linear-gradient(to bottom ,rgba(0,0,0,1) ,rgba(0,0,0,0));
+
+}
+.home_row{
+    display:flex;
+    flex-direction:row;
+    margin-top:20px;
+    justify-content: space-evenly;
+    margin-left:20px;
+    margin-right:20px;
+    
+}
